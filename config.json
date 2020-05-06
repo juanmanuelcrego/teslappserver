@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/teslapp-api",
+    "secret": "231178*"
+}
